@@ -1,4 +1,4 @@
-O projeto DATA_GAMES trata arquivos em excel retirados de um banco de dados em cloud, afim de servir para análises e geração de insigths.
+O projeto DATA_GAMES trata arquivos em excel retirados de um banco de dados em cloud, a fim de servir para análises e geração de insigths.
 
 Etapas:
 
