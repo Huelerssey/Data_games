@@ -6,7 +6,9 @@ Etapas:
 
 2 - linhas_em_branco.py deleta todas as linhas em branco encontradas no dataset
 
-2 - transformador.py transforma strings em int subistituindo o "k" por 3 zeros.
+3 - transformador.py transforma strings em int subistituindo o "k" por 3 zeros.
+
+4 - alguns processos de data cleaning foram realizados pelo excel/power bi como deletar valores nulos, split text to cloums, transformação de tipo de dados e outros. O dataset final pode ser encontrado na pasta "Dataset_final".
 
 OBS: Sempre que o dataset passa por uma função python neste projeto, é gerado um novo arquivo com a função aplicada e mantido o original caso sejam necesários eventuais "hold back".
 
